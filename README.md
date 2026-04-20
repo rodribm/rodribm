@@ -53,7 +53,7 @@ Experiencia previa en Python, VPython y MATLAB
 
 ## Contacto
 
-- GitHub: https://github.com/TU_USUARIO  
+- GitHub: https://github.com/rodribm
 - Email: botomarquezrodrigo@gmail.com
 
 ---
