@@ -28,7 +28,7 @@ Experiencia previa en Python, VPython y MATLAB
 - Bases de datos con **SQL**
 - Codificación limpia y estructurada
 - Estructuras de datos y algoritmos
-- Desarrollo web con JS, css, html y xml
+- Desarrollo web con **JavaScript, CSS, HTML5 y archivos como xsd o xml**
 - Desarrollo de proyectos personales
 
 ---
