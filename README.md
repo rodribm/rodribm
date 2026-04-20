@@ -1,4 +1,5 @@
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+Antiguo estudiante de física e ingeniería geoespacial
 Experiencia previa en Python, VPython y MATLAB
 
 ---
@@ -15,9 +16,9 @@ Experiencia previa en Python, VPython y MATLAB
 
 ## Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodribm&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodribm&layout=compact&theme=tokyonight)
 
 ---
 
