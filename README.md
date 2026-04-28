@@ -1,5 +1,7 @@
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-Antiguo estudiante de física e ingeniería geoespacial
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM) y Máster en Ciberseguridad**
+
+Exalumno de física e ingeniería geoespacial
+
 Experiencia previa en Python, VPython y MATLAB
 
 ---
@@ -39,6 +41,7 @@ Experiencia previa en Python, VPython y MATLAB
 - Ejercicios de programación estructurada y POO
 - Simulaciones con MATLAB y VPython
 - Proyectos de clase en Java
+- Diseño web
 
 ---
 
