@@ -18,9 +18,9 @@ Experiencia previa en Python, VPython y MATLAB
 
 ## Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodribm&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodribm&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodribm&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodribm&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
