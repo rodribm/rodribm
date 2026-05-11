@@ -22,6 +22,7 @@ Experiencia previa en Python, VPython y MATLAB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodribm&layout=compact&theme=tokyonight&cache_seconds=1800)
 
+https://github-readme-stats-sigma-five.vercel.app/api?username=rodribm...
 ---
 
 ## Actualmente aprendiendo
